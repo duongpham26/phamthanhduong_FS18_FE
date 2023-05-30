@@ -1,0 +1,3 @@
+Thuộc tính: title(hổ trợ chorm)   
+<ol>: hiển thị số
+Favicon: <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
